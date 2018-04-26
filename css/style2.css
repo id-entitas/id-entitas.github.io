@@ -1,0 +1,137 @@
+body{
+
+  font-size:16px;
+}
+
+h1,h2,h3,h4,h5,h6{
+  font-family:Poppins;
+}
+
+p{
+  font-family:Roboto;
+}
+
+.navbar-default{
+  background:transparent;
+ 
+  border:0;
+  font-family:Poppins;
+  color : transparent;
+}
+
+.navbar-brand{
+  font-size:20px;
+  color:#ff0000 !important;
+  font-weight:bold;
+}
+
+.goplay{
+	margin-top:200px;
+	margin-left:100px;
+}
+
+#showcase{
+  
+}
+
+#showcase h1{
+  font-size:50px;
+  margin-bottom:20px;
+}
+
+#showcase p {
+
+  margin-bottom:100px;
+}
+
+#showcase img{
+  width:90%;
+  float:center;
+  margin-top:30px;
+  margin-left:60px;
+}
+.features-left img{
+	margin-top:50px;
+	width:50%;
+	margin-left:100px;
+}
+.features-right {
+	margin-top:100px;
+}
+.beli{
+	margin-left:50px;
+}
+.bayar{
+	margin-left:100px;
+}
+
+.features-right img{
+	width:60px;
+	height:60px;
+}
+
+.landing h1 {
+	margin-top:50%;
+	text-align: center;
+	vertical-align: middle;
+}
+
+.profile-left {
+	margin-top:100px;
+	text-align:left;
+}
+.profile-right {
+	margin-top:250px;
+	text-align:left;
+}
+
+.partner {
+	margin-top:100px;
+	text-align:center;
+}
+.visi {
+	margin-top:50px;
+	text-align:center;
+}
+
+#showcase .showcase-right{
+  margin-top:90px;
+}
+
+#testimonial{
+  background:#f1f1f1;
+  padding: 50px 0 30px 0;
+  text-align:center;
+  margin-top:40px;
+}
+
+#testimonial p{
+  font-size:32px;
+  font-family: 'Josefin Sans';
+  color:#ff0000;
+}
+
+#testimonial p.customer{
+  font-size:20px;
+  color:#ff0000;
+}
+
+#info1 .info-right{
+  margin-top:90px;
+}
+
+#info2{
+  margin:20px 0 60px 0;
+}
+
+#contact{
+  background:url(../img/image3.png);
+  padding:40px;
+  color:#ff0000;
+  border-top:#333 7px solid;
+  border-bottom:#333 7px solid;
+}
+
+footer{
+  padding:30px;
+}
